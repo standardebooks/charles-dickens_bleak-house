@@ -2,6 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 b{
+	font-weight: normal;
 	font-variant:small-caps;
 }
 
