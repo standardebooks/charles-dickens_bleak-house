@@ -7,7 +7,12 @@ abbr.name{
 
 b{
 	font-weight: normal;
-	font-variant:small-caps;
+	font-variant: small-caps;
+}
+
+strong{
+	font-weight: normal;
+	font-variant: small-caps;
 }
 
 span[epub|type~="subtitle"]{
@@ -38,6 +43,15 @@ span[epub|type~="subtitle"]{
 	margin-top: 1em;
 	text-align: right;
 	font-style: italic;
+}
+
+[epub|type~="z3998:poem"] p{
+	text-align: left;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:poem"] p > span.i1{
+	padding-left: 2em;
 }
 
 [epub|type~="z3998:salutation"],
