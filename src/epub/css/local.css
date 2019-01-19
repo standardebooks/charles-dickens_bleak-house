@@ -50,7 +50,7 @@ span[epub|type~="subtitle"]{
 	text-align: right;
 }
 
-p.subjectline{
+p.subject-line{
 	text-align: center;
 	font-variant: small-caps;
 }
