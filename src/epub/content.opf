@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Bleak House</dc:title>
 		<meta property="file-as" refines="#title">Bleak House</meta>
 		<dc:subject id="subject-1">London (England) -- Fiction</dc:subject>
@@ -37,17 +37,24 @@
 		<dc:subject id="subject-6">Guardian and ward -- Fiction</dc:subject>
 		<dc:subject id="subject-7">Illegitimate children -- Fiction</dc:subject>
 		<dc:subject id="subject-8">Legal stories</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/1023</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/1023</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/1023</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/1023</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/1023</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/1023</meta>
-		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/1023</meta>
-		<meta property="meta-auth" refines="#subject-8">https://www.gutenberg.org/ebooks/1023</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008106611</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2008104235</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008114026</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh86004353</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2003003087</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008105063</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh2008104232</meta>
+		<meta property="authority" refines="#subject-8">LCSH</meta>
+		<meta property="term" refines="#subject-8">sh85075764</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young woman of uncertain parentage is taken in by a kindly guardian, while her fate and that of two other young people hinge on the outcome of an interminable legal case.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Bleak House&lt;/i&gt;, completed by Dickens in 1853, tells several interlocking story-lines and features a host of colorful characters. Though very difficult to summarise, the novel centers around the decades-long legal case of &lt;i&gt;Jarndyce and Jarndyce&lt;/i&gt;, involving the fair distribution of assets of a valuable estate. The case is mired in the legal quagmire of the Court of Chancery, whose byzantine and sluggish workings Dickens spares no effort to expose and condemn. Dickens also exposes the miserable condition of the poor, living in squalid, pestilential circumstances.&lt;/p&gt;
 			&lt;p&gt;The novel’s heroine is Esther Summerson, whose parentage is unclear and who has been brought up by a cold and strict godmother, who tells her only: “Your mother, Esther, is your disgrace, and you were hers.” On the death of her godmother, she is given an education through the unexpected intervention of a Mr. Jarndyce of Bleak House, whom she has never met. When she comes of age, she is appointed as a companion to Ada, one of two young people who are “wards of Chancery,” whose fates depend on the outcome of the legal struggle and who are taken into guardianship by Mr. Jarndyce. The other ward Richard, despite Mr. Jarndyce’s frequent warnings, eventually goes astray by pinning all his hopes on a successful outcome of &lt;i&gt;Jarndyce and Jarndyce&lt;/i&gt;&lt;/p&gt;
@@ -55,7 +62,6 @@
 			&lt;p&gt;The novel has a curious construction in that the first-person narrative of Esther, written in the past tense, is interleaved with many chapters written from the omniscient viewpoint and in the present tense.&lt;/p&gt;
 			&lt;p&gt;Several prominent critics such as G. K. Chesterton consider &lt;i&gt;Bleak House&lt;/i&gt; to be Dickens’ finest novel, and it is often ranked among the best English-language novels of all time.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1023</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.225310</dc:source>
