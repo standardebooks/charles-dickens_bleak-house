@@ -50,7 +50,7 @@ span[epub|type~="subtitle"]{
 	text-align: right;
 }
 
-p.subject-line{
+#chapter-3 blockquote [epub|type~="z3998:salutation"] + p{
 	text-align: center;
 	font-variant: small-caps;
 }
