@@ -11,8 +11,9 @@
 	text-indent: 0;
 }
 
-[epub|type~="z3998:letter"] footer{
+footer{
 	margin-top: 1em;
+	text-align: right;
 }
 
 [epub|type~="se:letter.dateline"]{
@@ -35,13 +36,8 @@
 	font-variant: small-caps;
 }
 
-[epub|type~="z3998:valediction"]{
-	text-align: right;
-}
-
 [epub|type~="z3998:sender"]{
 	font-variant: small-caps;
-	text-align: right;
 }
 
 #chapter-3 blockquote [epub|type~="z3998:salutation"] + p{
