@@ -43,6 +43,7 @@ footer{
 #chapter-3 blockquote [epub|type~="z3998:salutation"] + p{
 	text-align: center;
 	font-variant: small-caps;
+	text-indent: 0;
 }
 
 [epub|type~="z3998:song"] p{
