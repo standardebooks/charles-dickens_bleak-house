@@ -54,6 +54,9 @@
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">sh85075764</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-2" property="belongs-to-collection">The BBC’s 100 greatest British novels (2015)</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="group-position" refines="#collection-2">6</meta>
 		<dc:description id="description">A young woman of uncertain parentage is taken in by a kindly guardian, while her fate and that of two other young people hinge on the outcome of an interminable legal case.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Bleak House&lt;/i&gt;, completed by &lt;a href="https://standardebooks.org/ebooks/charles-dickens"&gt;Dickens&lt;/a&gt; in 1853, tells several interlocking story-lines and features a host of colorful characters. Though very difficult to summarise, the novel centers around the decades-long legal case of &lt;i&gt;Jarndyce and Jarndyce&lt;/i&gt;, involving the fair distribution of assets of a valuable estate. The case is mired in the legal quagmire of the Court of Chancery, whose byzantine and sluggish workings Dickens spares no effort to expose and condemn. Dickens also exposes the miserable condition of the poor, living in squalid, pestilential circumstances.&lt;/p&gt;
