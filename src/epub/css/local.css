@@ -17,9 +17,9 @@ footer{
 }
 
 [epub|type~="se:letter.dateline"]{
+	font-style: italic;
 	margin-top: 1em;
 	text-align: right;
-	font-style: italic;
 }
 
 [epub|type~="z3998:poem"] p{
@@ -41,8 +41,8 @@ footer{
 }
 
 #chapter-3 blockquote [epub|type~="z3998:salutation"] + p{
-	text-align: center;
 	font-variant: small-caps;
+	text-align: center;
 	text-indent: 0;
 }
 
