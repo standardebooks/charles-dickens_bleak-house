@@ -70,7 +70,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1023</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.225310</dc:source>
-		<meta property="se:word-count">359519</meta>
+		<meta property="se:word-count">354994</meta>
 		<meta property="se:reading-ease.flesch">71.24</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Bleak_House</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charles-dickens_bleak-house</meta>
